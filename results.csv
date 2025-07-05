@@ -1,0 +1,6 @@
+VERSION,SCHEME,KEYGEN(ms),SIGN(ms),VERIFY(ms)
+Dilithium_II_Optimized,Dilithium2,0.1708,0.2028,0.1055
+Dilithium_II_General,Dilithium2,0.0562,0.2139,0.0432
+Dilithium_III,Dilithium3,0.1868,0.3108,0.1462
+Dilithium_V,Dilithium5,0.2257,0.4194,0.1204
+Falcon_512,Falcon-512,10.7501,0.4247,0.0812
